@@ -43,7 +43,7 @@ async def _(event):
             "`Injecting... 52%\n█████████████▒▒▒▒▒▒▒▒▒▒▒▒ `",
             "`Injecting... 84%\n█████████████████████▒▒▒▒ `",
             "`Injecting... 100%\n█████████Injected Corona███████████ `",
-            "`Targeted user Injected...\n\nPay 69$ To` @MisterClay `Or send nudes of female Homo Sapiens To Remove This Virus, or you will die in 69 mins`"
+            "`Targeted user Injected...\n\nPay 69$ To` @MisterClay `Or send nudes of female Homo Sapiens To Remove Corona Virus, or you will die in 69 mins`"
         ]
 
         for i in animation_ttl:
